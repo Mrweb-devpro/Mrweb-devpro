@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://danetech.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-nwokedike)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danetechbusiness@gmail.com)
-> 💼 **Explore my portfolio** to witness the fusion of creativity and functionality that defines my work — every project is a story of problems solved and ideas brought to life.
+> 💼 **Explore my portfolio** to witness the fusion of creativity and functionality that defines my work => every project is a story of problems solved and ideas brought to life.
 
 </div>
 
