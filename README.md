@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm David 👋
+# David Nwokedike
 
 ### Engineering Student · Web Developer · Builder of Things
 
@@ -10,23 +10,7 @@
 
 </div>
 
----
-
-## 🙋🏽‍♂️ About Me
-
-I'm **David Chukwuemeka Nwokedike** — an Engineering student at the **University of Lagos (UNILAG)** and a passionate web developer who loves crafting dynamic, high-performance applications.
-
-My coding journey began back in high school, where a single spark of curiosity ignited a deep, lasting passion for both **software** and **hardware**. Since then, I've been on a relentless pursuit to build things that matter.
-
-- 🏗️ &nbsp;Currently building with **Next.js** on the frontend and **Node.js** on the backend
-- 📚 &nbsp;Continuously learning and shipping projects to sharpen my craft
-- 🌍 &nbsp;Driven by a vision to **revolutionize the digital landscape** through intuitive, impactful solutions
-- 🤖 &nbsp;Next up: diving into **Python, AI & Machine Learning**
-- 💬 &nbsp;Ask me about anything web — I'm always happy to talk tech
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ My Stills
 
 **Languages & Frameworks**
 
@@ -48,45 +32,7 @@ My coding journey began back in high school, where a single spark of curiosity i
 
 ---
 
-## 🚀 What I'm Currently Up To
-
-```text
-🖥️  Frontend     →  Building performant UIs with Next.js & TypeScript
-⚙️  Backend      →  Designing scalable APIs with Node.js
-📦  Exploring    →  Advanced patterns in Redux & Supabase
-🎯  Goal         →  Deliver solutions that genuinely enhance the web experience
-```
-
----
-
-## 🔭 Future Goals
-
-I believe the most exciting chapter is always the next one. Here's what's on the horizon:
-
-| Goal | Status |
-|------|--------|
-| 🐍 Learn Python fundamentals | 🔜 Up Next |
-| 🤖 Dive into Artificial Intelligence & ML | 🔜 Up Next |
-| 🌐 Launch a flagship full-stack product | 🔄 In Progress |
-| 📈 Contribute to impactful open-source projects | 🔄 In Progress |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to collaborating on exciting projects, discussing ideas, or just having a good tech conversation.
+## 🤝 Find me on:
 
 > 💼 **Explore my portfolio** to witness the fusion of creativity and functionality that defines my work — every project is a story of problems solved and ideas brought to life.
 
@@ -103,7 +49,5 @@ I'm always open to collaborating on exciting projects, discussing ideas, or just
 <div align="center">
 
 *"Code is not just logic — it's craft. And I'm here to master it."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
